@@ -20,7 +20,6 @@ git checkout <team_name>
 6. You are now ready to begin hacking! Work with your team to complete the challenge listed above.
 
 For other questions or additional help using qBraid, see [Lab User Guide](https://docs.qbraid.com/projects/lab/en/latest/lab/overview.html), or reach out on [Discord](https://discord.gg/gwBebaBZZX).
-For other questions or additional help using qBraid, see [Lab User Guide](https://docs.qbraid.com/en/latest/), or reach out on [Discord](https://discord.gg/gwBebaBZZX).
 
 ## Before submission
 
