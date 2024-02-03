@@ -5,3 +5,5 @@ dimod
 dwave-neal
 scipy
 matplotlib
+notebook
+pyarrow
