@@ -1,0 +1,9 @@
+pandas
+numpy
+pyqubo
+dimod
+dwave-neal
+scipy
+matplotlib
+notebook
+pyarrow
